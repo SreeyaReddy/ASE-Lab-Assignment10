@@ -14,6 +14,6 @@ This application has to be deployed on to Amazon instance.
 
 # Lab Assignment-10 Wiki Url
 
-https://github.com/ManasaReddyThipparthi/ASELabAssignment-10/wiki/LabAssignment-10
+https://github.com/SreeyaReddy/ASE-Lab-Assignment10/wiki/ASE-Lab-Assignment-10-:-Mongo-CRUD-Operation-with-Amazon-AWS
 
 # AWS Link
