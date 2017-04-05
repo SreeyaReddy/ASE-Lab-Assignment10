@@ -17,3 +17,5 @@ This application has to be deployed on to Amazon instance.
 https://github.com/SreeyaReddy/ASE-Lab-Assignment10/wiki/ASE-Lab-Assignment-10-:-Mongo-CRUD-Operation-with-Amazon-AWS
 
 # AWS Link
+
+http://restsampleapp.j83thxptjm.us-west-2.elasticbeanstalk.com/restlab6app/mtoyservice
